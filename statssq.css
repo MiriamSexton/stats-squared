@@ -1,0 +1,51 @@
+
+#stat_table {
+  border: 2px solid #f0f;
+}
+
+td {
+  width: 13em;
+}
+
+.even {
+  background-color:lightcyan;
+}
+.odd {
+  background-color:white;
+}
+
+.odd:hover, .even:hover {
+  background-color:lightblue;
+}
+
+.headrow {
+	background-color:lightpink;
+}
+
+th {
+  width: 10em;
+  font-weight:bolder;
+}
+
+input {
+  color: #000;
+}
+
+input.over_total {
+   color: #f00;
+   font-weight:bold;
+}
+
+button {
+  background-color:#fff;
+  border-width:medium;
+  border-color:forestgreen;
+  border-style:solid;
+  
+  color:forestgreen;
+  font-weight:bolder;
+  font-size:120%;
+  font-family:sans-serif;
+}
+
+
