@@ -1,3 +1,13 @@
+/* 
+ *
+ * RPG Stat Calculator, using stats squared method
+ * Copyright Miriam Sexton
+ * Original date unknown, certainly pre 2009
+ * Git repo (c) 2014
+ *
+ */
+
+
 var tot = "cost_total";
 
 var typ = "id_";
